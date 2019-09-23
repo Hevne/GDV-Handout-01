@@ -1,0 +1,28 @@
+<!-- Config file for the game -->
+
+
+<config>
+  <modules>
+    <window>
+      <title> Game Development Testbed </title>
+      <FULLSCREEN value = "false"/>
+      <BORDERLESS value = "false"/>
+      <RESIZABLE value = "true"/>
+      <FULLSCREEN_WINDOW value = "false"/>
+      <TITLE value = "Game Development Testbed" /> 
+      <WIDTH value = "1024"/>
+      <HEIGHT value = "768"/>
+      <SCALE value = "1"/>   
+    </window>
+    <audio>
+      <MUSIC_VOLUME value="128"/>
+      <FX_VOLUME value="0"/>
+      <DEFAULT_MUSIC_FADE_TIME value ="2.0"/>
+    </audio>
+    <input>
+      <NUM_KEYS value="352"/>
+      <NUM_MOUSE_BUTTONS value="5"/>
+      <LAST_KEYS_PRESSED_BUFFER value="50"/>
+    </input>
+  </modules>
+</config>
